@@ -21,3 +21,21 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: pink;
 }
+.published-time {
+    font-size: 0.5em;
+    color: gray;
+    font-style: italic;
+}
+.warning {
+    color: red;
+}
+.comment-box * {
+    display: block;
+}
+
+.comment-box textarea {
+    margin: 0;
+    width: 400px;
+    height: 100px;
+    resize: none;
+}
