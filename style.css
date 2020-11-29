@@ -1,0 +1,23 @@
+body{
+    background-size: 200px;
+    background-image: url('https://abload.de/img/14588248572620fyrzd.jpg');
+}
+.title{
+    background-color: black;
+    text-align: center;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.info-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.info{
+    padding: 75px;
+    background-color: black;
+    text-align: justify;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: pink;
+}
